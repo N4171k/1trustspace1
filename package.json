@@ -1,0 +1,43 @@
+{
+  "name": "saarthi",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@auth/firebase-adapter": "^2.8.0",
+    "@radix-ui/react-icons": "^1.3.2",
+    "@radix-ui/react-label": "^2.1.2",
+    "@radix-ui/react-select": "^2.1.6",
+    "@radix-ui/react-slot": "^1.1.2",
+    "@radix-ui/react-toast": "^1.2.6",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "firebase-admin": "^12.7.0",
+    "lucide-react": "^0.485.0",
+    "next": "^14.1.0",
+    "next-auth": "^4.24.11",
+    "next-themes": "^0.4.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hot-toast": "^2.5.2",
+    "tailwind-merge": "^3.0.2",
+    "tailwindcss-animate": "^1.0.7"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3.0.0",
+    "@tailwindcss/postcss": "^4.0.0",
+    "@tailwindcss/typography": "^0.5.16",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8.57.0",
+    "eslint-config-next": "^14.1.0",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}
